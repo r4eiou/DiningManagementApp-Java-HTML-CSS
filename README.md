@@ -1,1 +1,1 @@
-# Dining_Management_Application-Java-HTML-CSS
+# Dining Management Application
